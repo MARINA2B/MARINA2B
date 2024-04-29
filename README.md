@@ -1,16 +1,19 @@
-### Hi there 👋
+### BEM VINDO AO MEU PERFIL 👩‍🎓 🖤
 
-<!--
-**MARINA2B/MARINA2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marina Leme 
 
-Here are some ideas to get you started:
+- Estou estudando na platafroma do [Alura](https//www.alura.com.br) nas aulas de Itinerario Programaçao e robotica;
+- Estou aprendendo a linguagem de programaçao JavaScript;
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Vocẽ pode entar em contato comigo 📫
+
+
+marinaleme816@gmail.com
+
+@marina_victoria__
+
+![](https://media1.tenor.com/m/BdVowvnbXo4AAAAC/space-astronaut.gifularity.gif)
+
+

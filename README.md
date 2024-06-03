@@ -7,7 +7,7 @@ Meu nome é Marina Leme
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos;
 
 
-### Vocẽ pode entar em contato comigo 📫
+### Você pode entar em contato comigo 📫
 
 
 marinaleme816@gmail.com
